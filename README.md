@@ -1,6 +1,6 @@
 # tnsdc_GEN-AI
 
-Pharmaceutical chatbox is a conversational system
+Pharmaceutical chatbot is a conversational system
 designed to provide an intelligent response to the user’s queries
 regarding healthcare.By focusing the developing LLM models, I
 have chosen llama-2-7b-chat.ggmlv3.q4_0.bin conversational AI
